@@ -1,4 +1,4 @@
-# exmachina [Using Python 2.X]
+# exmachina [Using Python 2.XX]
 # BlueBook code decryption
 
 import sys
